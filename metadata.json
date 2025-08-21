@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Answer Sheet AI Assistant",
+  "description": "An AI-powered assistant to automatically extract student information and process answers from a multiple-choice answer sheet image.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
